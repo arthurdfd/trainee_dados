@@ -1,3 +1,3 @@
 # Projeto Final do Trainee de Dados 2026
 
-Repositório designado para o projeto final requerido do Programa de Trainee de Dados 2026 da CATI Jr.
+O projeto consiste em realizar um fluxo da análise de dados de um Dataset relacionado a preços de casas.
